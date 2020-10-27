@@ -1,8 +1,5 @@
-Downloading DATA 
-https://git.earthdata.nasa.gov/projects/LPDUR/repos/daac_data_download_python/browse
-
-DATA types 
-https://lpdaac.usgs.gov/search/?query=gedi&content_types=Data+Products&view=cards&sort=relevance
+Pulling DATA 
+https://lpdaac.usgs.gov/product_search/?query=gedi&view=cards&sort=title
 
 Turial 
 L1B  
@@ -11,3 +8,24 @@ L2A
 https://lpdaac.usgs.gov/resources/e-learning/getting-started-gedi-l2a-data-python/  
 L2B  
 https://lpdaac.usgs.gov/resources/e-learning/getting-started-gedi-l2b-data-python/#:~:text=%20Getting%20Started%20with%20GEDI%20L2B%20Data%20in,GEDI%20L2B%20SDS%20layers%20into%20a...%20More%20  
+
+
+Mydata 
+
+https://lpdaacsvc.cr.usgs.gov/services/gedifinder?
+product=GEDI01_B&
+version=001&
+bbox=43.00,71.00,42.00,72.00,&
+output=html
+
+https://lpdaacsvc.cr.usgs.gov/services/gedifinder?
+product=GEDI02_A&
+version=001&
+bbox=43.00,71.00,42.00,72.00,&
+output=html
+
+https://lpdaacsvc.cr.usgs.gov/services/gedifinder?
+product=GEDI02_B&
+version=001&
+bbox=09.322,00.555,09.321,00.554,&
+output=html
