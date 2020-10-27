@@ -1,3 +1,9 @@
+Downloading DATA 
+https://git.earthdata.nasa.gov/projects/LPDUR/repos/daac_data_download_python/browse
+
+DATA types 
+https://lpdaac.usgs.gov/search/?query=gedi&content_types=Data+Products&view=cards&sort=relevance
+
 Turial 
 L1B  
 https://lpdaac.usgs.gov/resources/e-learning/getting-started-gedi-l1b-data-python/  
